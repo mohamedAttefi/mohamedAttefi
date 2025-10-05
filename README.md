@@ -9,7 +9,6 @@ I'm a full-stack developer who accidentally became good at this while trying to 
 
 ```javascript
 const mohamed = {
-  age: 19,
   location: "Somewhere with WiFi",
   skills: ["Breaking things", "Fixing things", "Repeat"],
   currentlyLearning: "How to exit Vim",
