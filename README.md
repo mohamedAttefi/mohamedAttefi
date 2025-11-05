@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Mohamed Attefi
 
-> **Full-Stack Developer | Bug Whisperer | Coffee-to-Code Converter**  
+> *****Full-Stack Developer | Bug Whisperer | Coffee-to-Code Converter*****
 > * Status: Turning caffeine into features since 2006*
 
 ## 🎯 About Me
